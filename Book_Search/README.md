@@ -1,3 +1,15 @@
+# Google Book Search App
+
+### This is REACT base Application workign using following 
+* express
+* mongoose 
+
+# models 
+It is used to have our database schema like bookSchema
+
+# controller 
+It is used to have methods and queries to the database 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
