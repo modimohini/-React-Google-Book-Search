@@ -1,8 +1,4 @@
-# Google Book Search App
 
-### This is REACT base Application workign using following 
-* express
-* mongoose 
 
 # models 
 It is used to have our database schema like bookSchema
